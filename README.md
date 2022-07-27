@@ -1,2 +1,2 @@
 # Organic-Compound-orca
-Orca linked project for studying of organic compounds by using DFT calculus to generate spectral analysis which can be applied to predict the properties of such materials. 
+Orca linked project for studying of organic compounds by using DFT calculus to generate spectral analysis which can be applied to predict the properties of such materials. One of the chemical compounds of interest is the type of organic materials that have phosphorescence properties, with the Spin-orbit coupling (SOC) simulation of TD-DFT methods with Ab Initio techniques on Orca. 
