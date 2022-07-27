@@ -1,2 +1,2 @@
 # Organic-Compound-orca
-Orca linked project for studying of ferromagnetic materials. Using X-ray diffraction simulation like XAS and XMCD.
+Orca linked project for studying of organic compounds by using DFT calculus to generate spectral analysis which can be applied to predict the properties of such materials. 
